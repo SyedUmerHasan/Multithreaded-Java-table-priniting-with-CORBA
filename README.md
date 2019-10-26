@@ -54,4 +54,5 @@
 4. `java HelloServer -ORBInitialPort 1050 -ORBInitialHost localhost&`
 6. `java HelloClient -ORBInitialPort 1050 -ORBInitialHost localhost`
 
+![](corba.gif)
 
