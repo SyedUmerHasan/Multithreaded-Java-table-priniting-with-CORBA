@@ -1,0 +1,8 @@
+module HelloApp
+{
+  interface Hello
+  {
+  string sayHello(in long tableNumber, in long printTime);
+  oneway void shutdown();
+  };
+};
