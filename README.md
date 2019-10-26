@@ -7,6 +7,9 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://syedumerhasan.com)
 
 
+
+![](corba.gif)
+
   
 
 ## Folder structure
@@ -54,5 +57,5 @@
 4. `java HelloServer -ORBInitialPort 1050 -ORBInitialHost localhost&`
 6. `java HelloClient -ORBInitialPort 1050 -ORBInitialHost localhost`
 
-![](corba.gif)
+
 
